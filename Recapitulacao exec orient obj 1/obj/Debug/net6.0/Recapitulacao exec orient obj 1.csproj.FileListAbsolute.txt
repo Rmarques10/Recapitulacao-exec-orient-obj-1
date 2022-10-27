@@ -1,0 +1,15 @@
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\obj\Debug\net6.0\Recapitulacao exec orient obj 1.csproj.AssemblyReference.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\obj\Debug\net6.0\Recapitulacao exec orient obj 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\obj\Debug\net6.0\Recapitulacao exec orient obj 1.AssemblyInfoInputs.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\obj\Debug\net6.0\Recapitulacao exec orient obj 1.AssemblyInfo.cs
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\obj\Debug\net6.0\Recapitulacao exec orient obj 1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\bin\Debug\net6.0\Recapitulacao exec orient obj 1.exe
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\bin\Debug\net6.0\Recapitulacao exec orient obj 1.deps.json
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\bin\Debug\net6.0\Recapitulacao exec orient obj 1.runtimeconfig.json
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\bin\Debug\net6.0\Recapitulacao exec orient obj 1.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\bin\Debug\net6.0\Recapitulacao exec orient obj 1.pdb
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\obj\Debug\net6.0\Recapitulacao exec orient obj 1.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\obj\Debug\net6.0\refint\Recapitulacao exec orient obj 1.dll
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\obj\Debug\net6.0\Recapitulacao exec orient obj 1.pdb
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\obj\Debug\net6.0\Recapitulacao exec orient obj 1.genruntimeconfig.cache
+C:\Users\Rafael Marques\source\repos\Recapitulacao exec orient obj 1\Recapitulacao exec orient obj 1\obj\Debug\net6.0\ref\Recapitulacao exec orient obj 1.dll
